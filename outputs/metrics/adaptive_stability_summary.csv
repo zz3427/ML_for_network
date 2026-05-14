@@ -1,0 +1,5 @@
+metric,value
+static_num_mode_switches,56.0
+adaptive_num_mode_switches,58.0
+adaptive_num_threshold_updates,114.0
+adaptive_fraction_threshold_updates,0.04408352668213457
